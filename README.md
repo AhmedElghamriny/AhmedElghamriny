@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ahmed Elghamriny
 
 I'm a Computer Science graduate from Dalhousie University, passionate about building intelligent systems that integrate machine learning, backend engineering, and human-centered design. I enjoy exploring AI, data science, and reinforcement learning.
----
+
 
 ## 🛠 Tech Stack
 
