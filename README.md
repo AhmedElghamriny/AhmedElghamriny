@@ -3,14 +3,6 @@
 I'm a Computer Science graduate from Dalhousie University, passionate about building intelligent systems that integrate machine learning, backend engineering, and human-centered design. I enjoy exploring AI, data science, and reinforcement learning.
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedelghamriny)  
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=white)](https://github.com/AhmedElghamriny)  
-🌍 [elghamriny.com](https://elghamriny.com)
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
