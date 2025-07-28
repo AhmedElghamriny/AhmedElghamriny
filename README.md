@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ahmed Elghamriny
 
-I'm a Computer Science graduate from Dalhousie University, passionate about building intelligent systems that integrate machine learning, backend engineering, and human-centered design. I enjoy exploring AI, data science, and reinforcement learning — especially when applied to real-world business and social challenges.
-
+I'm a Computer Science graduate from Dalhousie University, passionate about building intelligent systems that integrate machine learning, backend engineering, and human-centered design. I enjoy exploring AI, data science, and reinforcement learning.
 ---
 
 ## 🌐 Connect with Me
@@ -53,5 +52,5 @@ I'm a Computer Science graduate from Dalhousie University, passionate about buil
 
 ---
 
-> “I want to build intelligent systems that solve meaningful real-world problems — and I'm just getting started.”  
+> “I want to build intelligent systems that solve meaningful real-world problems”  
 > — Ahmed Elghamriny
