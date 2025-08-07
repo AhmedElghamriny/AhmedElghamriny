@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Ahmed Elghamriny
+# Hi, I'm Ahmed Elghamriny
 
 I'm a Computer Science graduate from Dalhousie University, passionate about building intelligent systems that integrate machine learning, backend engineering, and human-centered design. I enjoy exploring AI, data science, and reinforcement learning.
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
@@ -34,14 +34,9 @@ I'm a Computer Science graduate from Dalhousie University, passionate about buil
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- 📘 Machine Learning Specialization — DeepLearning.AI / Coursera  
-- 📊 Power BI Data Analyst Associate — Microsoft  
-- 🧠 ICDL Arabia Certificate  
-- 🎖 Dean’s List — Dalhousie University
-
----
-
-> “I want to build intelligent systems that solve meaningful real-world problems”  
-> — Ahmed Elghamriny
+- Machine Learning Specialization — DeepLearning.AI / Coursera  
+- Power BI Data Analyst Associate — Microsoft  
+- ICDL Arabia Certificate  
+- Dean’s List — Dalhousie University
