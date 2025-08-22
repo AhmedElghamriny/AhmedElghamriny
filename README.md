@@ -36,7 +36,5 @@ I'm a Computer Science graduate from Dalhousie University, passionate about buil
 
 ## Certifications
 
-- Machine Learning Specialization — DeepLearning.AI / Coursera  
-- Power BI Data Analyst Associate — Microsoft  
-- ICDL Arabia Certificate  
-- Dean’s List — Dalhousie University
+- Machine Learning Specialization - DeepLearning.AI / Coursera  
+- Power BI Data Analyst Associate - Microsoft
